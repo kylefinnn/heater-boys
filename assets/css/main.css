@@ -1,0 +1,17 @@
+:root {
+    --primary: #FF6B00;
+    --primary-dark: #E05D00;
+    --dark: #1A1A1A;
+    --light: #FFFFFF;
+    --gray: #F5F5F5;
+    --dark-gray: #333333;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: var(--dark);
+    line-height: 1.6;
+    background-color: var(--light);
+}
+
+/* Add all other CSS rules from your original file */
